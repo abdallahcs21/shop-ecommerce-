@@ -1,1 +1,1 @@
-# myProject
+# shop-ecommerce
