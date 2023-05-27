@@ -1,0 +1,30 @@
+.contanier{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+/* small */
+@media(min-width:767px)
+{
+    .contanier{
+        width: 747px;
+    }
+}
+
+/* medium */
+@media(min-width:991px)
+{
+    .contanier{
+        width: 970px;
+    }
+}
+/* large */
+@media(min-width:1200px)
+{
+    .contanier{
+        width: 1170px;
+    }
+}
+
+
+
